@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EduHub.API/EduHub.API.csproj" Id="afa81a1f-6cfe-43c8-899c-d0eaac6fc691" />
+  <Project Path="EduHub.Application/EduHub.Application.csproj" Id="2276d87e-cea0-4ad3-bea8-ffaeec26ac29" />
+  <Project Path="EduHub.Domain/EduHub.Domain.csproj" Id="13a2c242-a287-41a5-9e71-d18acddd2d57" />
+  <Project Path="EduHub.Infrastructure/EduHub.Infrastructure.csproj" Id="231343ab-5bbc-4e59-8884-852b0e261f80" />
+</Solution>
